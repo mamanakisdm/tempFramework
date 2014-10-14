@@ -1,0 +1,8 @@
+org/IntelligentSigma/selenium/helpers/TestingPlatform.class
+org/IntelligentSigma/selenium/helpers/SauceOnDemandAuthenticationProvider.class
+org/IntelligentSigma/selenium/helpers/SauceOnDemandTestListener.class
+org/IntelligentSigma/selenium/pageObjects/ExampleGoogleResults.class
+org/IntelligentSigma/selenium/helpers/DriverHelper.class
+org/IntelligentSigma/selenium/pageObjects/ExampleGoogle.class
+org/IntelligentSigma/selenium/helpers/ApplicationHelper.class
+org/IntelligentSigma/selenium/helpers/BrowserHelper.class
